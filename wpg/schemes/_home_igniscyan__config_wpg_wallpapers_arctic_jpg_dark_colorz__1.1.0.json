@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/igniscyan/.config/wpg/wallpapers/arctic.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#010101",
+        "foreground": "#dbb0b0",
+        "cursor": "#dbb0b0"
+    },
+    "colors": {
+        "color0": "#010101",
+        "color1": "#962d44",
+        "color2": "#4961a9",
+        "color3": "#a75c82",
+        "color4": "#0e2a7d",
+        "color5": "#6d3483",
+        "color6": "#244b9a",
+        "color7": "#c48383",
+        "color8": "#050c19",
+        "color9": "#cc3157",
+        "color10": "#527fd2",
+        "color11": "#d56fb2",
+        "color12": "#0937bd",
+        "color13": "#9d3dc6",
+        "color14": "#2462cc",
+        "color15": "#dbb0b0"
+    }
+}

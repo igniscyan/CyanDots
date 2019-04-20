@@ -1,0 +1,21 @@
+set $wallpaper /home/igniscyan/.config/wpg/wallpapers/wallhaven-735042.jpg
+
+set $background #181c22
+set $foreground #fdffff
+
+set $color0 #181c22
+set $color1 #ab494b
+set $color2 #a398a8
+set $color3 #ac5f6a
+set $color4 #5579ac
+set $color5 #ab7a88
+set $color6 #7a91ab
+set $color7 #c5c6c7
+set $color8 #2c343f
+set $color9 #ee4f52
+set $color10 #dbb0ef
+set $color11 #f06a7d
+set $color12 #5d9af0
+set $color13 #f18ba8
+set $color14 #8bbbf1
+set $color15 #fdffff

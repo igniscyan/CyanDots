@@ -1,0 +1,29 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icon16.png",
+      "default_popup": "popup.html",
+      "default_title": "ALT + SHIFT + A to enter ULTRA COPY MODE.\nClick to open menu"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "script.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_idle"
+   } ],
+   "description": "Allow selection and copy, right click and paste on any webpage with copy protection",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkduaeXTp2CZz+x4nT2POmTzdxXWhciCBBT+UHeDwzDYuDtCMOAkT3ZpQz2g5g7+quYRTkLIBfy8T+/rxJ9jOCsO9nszLKEYq6xnEld5g0B8/aRJjFgJl/pBaiJp65a3YJh7qjuWBPBIjaTezZrmZAlaotqZr2JciRreKr9p2CuqxNPBpwwpMPiBBobWSyt+GTMg52gqm0l02KbhX5CN/Ps34EjTzhieJOM88E9DalG/f3ljURY6oXsw2pf/0wY9+kgXeZ8+9wMc3p5MX1NTXwghKL2gRzNDTZj16X4gKlZzhD+DisaFeMqMLauIWdnc3hly7DVfi432EbUhpqnl+pwIDAQAB",
+   "manifest_version": 2,
+   "name": "Allow Select And Copy",
+   "permissions": [ "activeTab", "storage", "https://ajax.googleapis.com/" ],
+   "short_name": "Copy Unblock",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.1.5"
+}

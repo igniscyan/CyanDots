@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/igniscyan/.config/wpg/wallpapers/Canada.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#061927",
+        "foreground": "#dfcce3",
+        "cursor": "#dfcce3"
+    },
+    "colors": {
+        "color0": "#061927",
+        "color1": "#4F6CA0",
+        "color2": "#1F71C9",
+        "color3": "#5D93CD",
+        "color4": "#A29EC7",
+        "color5": "#B099D0",
+        "color6": "#CDADD8",
+        "color7": "#dfcce3",
+        "color8": "#9c8e9e",
+        "color9": "#4F6CA0",
+        "color10": "#1F71C9",
+        "color11": "#5D93CD",
+        "color12": "#A29EC7",
+        "color13": "#B099D0",
+        "color14": "#CDADD8",
+        "color15": "#dfcce3"
+    }
+}

@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/igniscyan/.config/wpg/wallpapers/wallhaven-735042.jpg"
+let background = "#181c22"
+let foreground = "#fdffff"
+let cursor     = "#fdffff"
+
+" Colors
+let color0  = "#181c22"
+let color1  = "#ab494b"
+let color2  = "#a398a8"
+let color3  = "#ac5f6a"
+let color4  = "#5579ac"
+let color5  = "#ab7a88"
+let color6  = "#7a91ab"
+let color7  = "#c5c6c7"
+let color8  = "#2c343f"
+let color9  = "#ee4f52"
+let color10 = "#dbb0ef"
+let color11 = "#f06a7d"
+let color12 = "#5d9af0"
+let color13 = "#f18ba8"
+let color14 = "#8bbbf1"
+let color15 = "#fdffff"

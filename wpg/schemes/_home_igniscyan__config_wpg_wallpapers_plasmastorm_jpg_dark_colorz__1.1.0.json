@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/igniscyan/.config/wpg/wallpapers/plasmastorm.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#12325a",
+        "foreground": "#ceffff",
+        "cursor": "#ceffff"
+    },
+    "colors": {
+        "color0": "#12325a",
+        "color1": "#6249ef",
+        "color2": "#1175ec",
+        "color3": "#cb97f2",
+        "color4": "#0140eb",
+        "color5": "#f05883",
+        "color6": "#4aa9ef",
+        "color7": "#a5e2f3",
+        "color8": "#1a4983",
+        "color9": "#714aff",
+        "color10": "#0596ff",
+        "color11": "#ffaaff",
+        "color12": "#0153ff",
+        "color13": "#ff5da1",
+        "color14": "#4bdeff",
+        "color15": "#ceffff"
+    }
+}

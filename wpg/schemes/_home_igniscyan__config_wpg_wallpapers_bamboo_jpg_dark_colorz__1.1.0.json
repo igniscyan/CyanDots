@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/igniscyan/.config/wpg/wallpapers/bamboo.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#14221d",
+        "foreground": "#fdffff",
+        "cursor": "#fdffff"
+    },
+    "colors": {
+        "color0": "#14221d",
+        "color1": "#4186aa",
+        "color2": "#4daa8c",
+        "color3": "#66ac93",
+        "color4": "#3e7aaa",
+        "color5": "#4d92af",
+        "color6": "#51a6a6",
+        "color7": "#c4c7c6",
+        "color8": "#264137",
+        "color9": "#45b3ec",
+        "color10": "#54edbb",
+        "color11": "#72f1c4",
+        "color12": "#41a0ec",
+        "color13": "#53c4f3",
+        "color14": "#59e7e7",
+        "color15": "#fdffff"
+    }
+}

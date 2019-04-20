@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/igniscyan/.config/wpg/wallpapers/HLD.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#142120",
+        "foreground": "#fdffff",
+        "cursor": "#fdffff"
+    },
+    "colors": {
+        "color0": "#142120",
+        "color1": "#8361aa",
+        "color2": "#507da9",
+        "color3": "#a894a4",
+        "color4": "#4a53aa",
+        "color5": "#b05785",
+        "color6": "#69a8a4",
+        "color7": "#c4c7c7",
+        "color8": "#223a38",
+        "color9": "#a96cee",
+        "color10": "#57a2eb",
+        "color11": "#eeabe1",
+        "color12": "#505eec",
+        "color13": "#f560ad",
+        "color14": "#76ece4",
+        "color15": "#fdffff"
+    }
+}

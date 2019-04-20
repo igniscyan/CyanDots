@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/igniscyan/.config/wpg/wallpapers/Stahl.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#22130f",
+        "foreground": "#fffdfc",
+        "cursor": "#fffdfc"
+    },
+    "colors": {
+        "color0": "#22130f",
+        "color1": "#af624d",
+        "color2": "#aa6b79",
+        "color3": "#ab969d",
+        "color4": "#42b7bf",
+        "color5": "#9d72a7",
+        "color6": "#19bebe",
+        "color7": "#c7c4c3",
+        "color8": "#3e221a",
+        "color9": "#f37653",
+        "color10": "#ee7993",
+        "color11": "#f3aec5",
+        "color12": "#45fcff",
+        "color13": "#d781eb",
+        "color14": "#12ffff",
+        "color15": "#fffdfc"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/igniscyan/.config/wpg/wallpapers/rain.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#232019",
+        "foreground": "#fffffd",
+        "cursor": "#fffffd"
+    },
+    "colors": {
+        "color0": "#232019",
+        "color1": "#678faa",
+        "color2": "#548bab",
+        "color3": "#b0a181",
+        "color4": "#447eab",
+        "color5": "#86a0ab",
+        "color6": "#5ba4c6",
+        "color7": "#c8c7c5",
+        "color8": "#3a3529",
+        "color9": "#74bdee",
+        "color10": "#5cb9ee",
+        "color11": "#f8d893",
+        "color12": "#48a5ed",
+        "color13": "#9ad8f2",
+        "color14": "#63dcff",
+        "color15": "#fffffd"
+    }
+}

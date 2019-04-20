@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/igniscyan/.config/wpg/wallpapers/Skyline_Scaled.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#220907",
+        "foreground": "#fffbfb",
+        "cursor": "#fffbfb"
+    },
+    "colors": {
+        "color0": "#220907",
+        "color1": "#af3125",
+        "color2": "#b25644",
+        "color3": "#b07972",
+        "color4": "#659ebf",
+        "color5": "#a29bac",
+        "color6": "#1399bf",
+        "color7": "#c7c1c1",
+        "color8": "#43110d",
+        "color9": "#f13422",
+        "color10": "#f76548",
+        "color11": "#f78e81",
+        "color12": "#70d2ff",
+        "color13": "#ceb4f4",
+        "color14": "#0aceff",
+        "color15": "#fffbfb"
+    }
+}

@@ -1,0 +1,6 @@
+2019/04/16-16:36:00.540 b9e Recovering log #113
+2019/04/16-16:36:00.541 b9e Level-0 table #115: started
+2019/04/16-16:36:00.558 b9e Level-0 table #115: 2783 bytes OK
+2019/04/16-16:36:00.566 b9e Delete type=0 #113
+2019/04/16-16:36:00.567 b9e Delete type=3 #112
+2019/04/16-16:36:00.585 be2 Moved #75 to level-1 1119 bytes OK: files[ 3 3 0 0 0 0 0 ]

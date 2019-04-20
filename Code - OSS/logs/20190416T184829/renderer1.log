@@ -1,0 +1,4 @@
+[2019-04-16 18:48:33.288] [renderer1] [info] no standard startup: not the explorer viewlet
+[2019-04-16 23:25:16.741] [renderer1] [info] no standard startup: not a new window
+[2019-04-16 23:28:21.837] [renderer1] [error] doSave(1) - exit - resulted in a save error: Error: File is Read Only {"$mid":1,"fsPath":"/tmp/mozilla_igniscyan0/factv2.s","external":"file:///tmp/mozilla_igniscyan0/factv2.s","path":"/tmp/mozilla_igniscyan0/factv2.s","scheme":"file"}
+[2019-04-17 00:05:18.037] [renderer1] [info] no standard startup: not a new window

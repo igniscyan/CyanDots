@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/igniscyan/.config/wpg/wallpapers/cyan_wolf.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#212622",
+        "foreground": "#fefffe",
+        "cursor": "#fefffe"
+    },
+    "colors": {
+        "color0": "#212622",
+        "color1": "#057fa9",
+        "color2": "#01b1c4",
+        "color3": "#a8c0ae",
+        "color4": "#0964aa",
+        "color5": "#487aa3",
+        "color6": "#09c1c6",
+        "color7": "#c7c8c7",
+        "color8": "#333b35",
+        "color9": "#01a7e1",
+        "color10": "#01e6ff",
+        "color11": "#c3ffd6",
+        "color12": "#0183e7",
+        "color13": "#4ea0e3",
+        "color14": "#01ffff",
+        "color15": "#fefffe"
+    }
+}

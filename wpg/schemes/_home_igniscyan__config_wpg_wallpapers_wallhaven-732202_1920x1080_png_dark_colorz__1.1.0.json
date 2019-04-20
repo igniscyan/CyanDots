@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/igniscyan/.config/wpg/wallpapers/wallhaven-732202_1920x1080.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a1422",
+        "foreground": "#c1c4c7",
+        "cursor": "#c1c4c7"
+    },
+    "colors": {
+        "color0": "#0a1422",
+        "color1": "#3569ad",
+        "color2": "#1f58aa",
+        "color3": "#5b7eb4",
+        "color4": "#859bc6",
+        "color5": "#1b46aa",
+        "color6": "#1632aa",
+        "color7": "#c1c4c7",
+        "color8": "#474e59",
+        "color9": "#3569ad",
+        "color10": "#1f58aa",
+        "color11": "#5b7eb4",
+        "color12": "#859bc6",
+        "color13": "#1b46aa",
+        "color14": "#1632aa",
+        "color15": "#c1c4c7"
+    }
+}

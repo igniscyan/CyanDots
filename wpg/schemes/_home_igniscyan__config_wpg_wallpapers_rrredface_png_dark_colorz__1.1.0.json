@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/igniscyan/.config/wpg/wallpapers/rrredface.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#010101",
+        "foreground": "#d7d7d7",
+        "cursor": "#d7d7d7"
+    },
+    "colors": {
+        "color0": "#010101",
+        "color1": "#7f7476",
+        "color2": "#4d5d76",
+        "color3": "#385072",
+        "color4": "#434776",
+        "color5": "#5b697c",
+        "color6": "#6d747e",
+        "color7": "#9b9b9b",
+        "color8": "#1a1a1a",
+        "color9": "#b4878f",
+        "color10": "#5776a6",
+        "color11": "#3d669f",
+        "color12": "#4b52a5",
+        "color13": "#6886af",
+        "color14": "#7e94b2",
+        "color15": "#d7d7d7"
+    }
+}

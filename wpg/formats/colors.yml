@@ -1,0 +1,24 @@
+wallpaper: "/home/igniscyan/.config/wpg/wallpapers/wallhaven-735042.jpg"
+
+special:
+    background: "#181c22"
+    foreground: "#fdffff"
+    cursor: "#fdffff"
+
+colors:
+    color0: "#181c22"
+    color1: "#ab494b"
+    color2: "#a398a8"
+    color3: "#ac5f6a"
+    color4: "#5579ac"
+    color5: "#ab7a88"
+    color6: "#7a91ab"
+    color7: "#c5c6c7"
+    color8: "#2c343f"
+    color9: "#ee4f52"
+    color10: "#dbb0ef"
+    color11: "#f06a7d"
+    color12: "#5d9af0"
+    color13: "#f18ba8"
+    color14: "#8bbbf1"
+    color15: "#fdffff"

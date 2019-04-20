@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/igniscyan/.config/wpg/wallpapers/snowpatio.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#230c0a",
+        "foreground": "#fffbfa",
+        "cursor": "#fffbfa"
+    },
+    "colors": {
+        "color0": "#230c0a",
+        "color1": "#b03e37",
+        "color2": "#af8b8e",
+        "color3": "#c4b2a1",
+        "color4": "#6c7eaa",
+        "color5": "#ae666d",
+        "color6": "#9a94aa",
+        "color7": "#c8c2c1",
+        "color8": "#4a1814",
+        "color9": "#f34338",
+        "color10": "#f7a0a7",
+        "color11": "#ffe6ba",
+        "color12": "#7a9cef",
+        "color13": "#f4727f",
+        "color14": "#beabf1",
+        "color15": "#fffbfa"
+    }
+}
